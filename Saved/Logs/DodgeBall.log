@@ -1233,3 +1233,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-02.27.24:894][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2020.02.27-02.27.25:144][ 47]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/DodgeBall/Saved/ThirdPersonExampleMapE27F58614126314A550A518EE5A24655.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/DodgeBall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2020.02.27-02.27.25:327][ 47]LogSavePackage: Moving '../../../../../../Users/campbeld21/Documents/GitHub/DodgeBall/Saved/ThirdPersonExampleMap_BuiltData4CED0B2448E618F3D745BA81061ED066.tmp' to '../../../../../../Users/campbeld21/Documents/GitHub/DodgeBall/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.02.27-02.28.36:170][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
