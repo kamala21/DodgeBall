@@ -1425,3 +1425,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.11-04.44.48:151][112]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
 [2020.03.11-04.44.49:204][236]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
 [2020.03.11-04.52.05:560][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.11-04.53.22:849][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.03.11-04.53.22:988][827]LogSavePackage: Moving '../../../../../../Game Design/DodgeBall/Saved/ThirdPersonExampleMap_Auto16D0CD02B429EAC872CF919A205441205.tmp' to '../../../../../../Game Design/DodgeBall/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2020.03.11-04.53.22:990][827]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.160
+[2020.03.11-04.53.22:990][827]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.160
