@@ -2,3 +2,5 @@
 *.log
 Saved/Config/CrashReportClient/UE4CC-Windows-F724451342EB8FABFE881FAD6C232F97/CrashReportClient.ini
 Saved/Config/CrashReportClient/UE4CC-Windows-B3CF9C70468E12C57BC8E8968BF1F082/CrashReportClient.ini
+*.ini
+*.ini
